@@ -4,7 +4,7 @@
 
 **Health monitoring for astronauts that knows how a body is *expected* to change in space, and raises an alarm only on what that cannot explain.**
 
-<img src="docs/assets/dashboard.jpg" alt="Space-Normal dashboard: a personal corridor against Earth normal and the pre-flight range" width="700">
+<img src="docs/assets/hero.jpg" alt="Space-Normal dashboard: a personal corridor that bends with the mission, next to the flat Earth normal line and pre-flight range" width="900">
 
 <br>
 
@@ -16,7 +16,7 @@
 ![Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-2026-E4405F)
 ![Status](https://img.shields.io/badge/Status-Hackathon%20Prototype-F28C28)
 
-**[▶ Open the live dashboard](https://spacenormal.vercel.app)**
+**[▶ Watch the demo](https://youtu.be/fUHyFiDoSHk)** · **[Open the live dashboard](https://spacenormal.vercel.app)**
 
 </div>
 
@@ -26,7 +26,9 @@
 
 ## Demo
 
-**[spacenormal.vercel.app](https://spacenormal.vercel.app)** — a 90-day mission replays in about 13 seconds and stops the moment Space-Normal raises an alert.
+▶ **[Watch the demo on YouTube](https://youtu.be/fUHyFiDoSHk)** — the problem, the corridor, and the dashboard in action.
+
+**[Try it yourself: spacenormal.vercel.app](https://spacenormal.vercel.app)** — a 90-day mission replays in about 13 seconds and stops the moment Space-Normal raises an alert.
 
 Watch the three bands on the chart. `Earth normal` and `Pre-flight range` are flat, and both collect false alarms as the crew adapts. The Space-Normal corridor bends with the mission and stays quiet until illness actually starts. Click any point for that day's breakdown, or press `D` for the details view. `?day=40` opens a specific day.
 
